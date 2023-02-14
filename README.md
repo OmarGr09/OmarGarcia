@@ -6,6 +6,7 @@
 ¡Hola Bienvenido!
 
 -🖥 Estudiante del Tec
+
 -😄Trabajador auxiliar en empresa privada
 
 | Hora  | Lunes           | Martes          | Miercoles        | Jueves           | Viernes         |
