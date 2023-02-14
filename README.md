@@ -9,6 +9,10 @@
 
 -😄Trabajador auxiliar en empresa privada
 
+-🤙Amistoso
+
+-🎬Amante del cine y tv series
+
 | Hora  | Lunes           | Martes          | Miercoles        | Jueves           | Viernes         |
 |:-----:|:---------------:|:---------------:|:----------------:|:----------------:|:---------------:|
 | 2-3pm | ADMON RED Q103  | ADMON RED Q103  | ADMON RED Q103   | ADMON RED LAB I  | ADMON RED LAB I |
