@@ -8,7 +8,7 @@
 -🖥 Estudiante del Tec
 -😄Trabajador auxiliar en empresa privada
 
-﻿| Hora  | Lunes           | Martes          | Miercoles        | Jueves           | Viernes         |
+| Hora  | Lunes           | Martes          | Miercoles        | Jueves           | Viernes         |
 |:-----:|:---------------:|:---------------:|:----------------:|:----------------:|:---------------:|
 | 2-3pm | ADMON RED Q103  | ADMON RED Q103  | ADMON RED Q103   | ADMON RED LAB I  | ADMON RED LAB I |
 | 3-4pm | ING. CONC. Q103 | ING. CONC. Q103 | ING. CONC. LAB B | ING. CONC. LAB B |       ///       |
