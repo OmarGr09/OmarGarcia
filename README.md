@@ -3,7 +3,7 @@
 
 
 # OmarGarcia
-¡Hola Bienvenido!
+¡Hola que tal!
 
 -🖥 Estudiante del Tec
 
