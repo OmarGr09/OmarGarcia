@@ -5,22 +5,22 @@
 # OmarGarcia
 ¡Hola que tal!
 
--🖥 Estudiante del Tec
+-🖥 ACTUAL ESTUDIANTE EN EL TECNOLOGICO NACIONAL DE TIJUANA
 
--😄Trabajador auxiliar en empresa privada
+-😄 9no SEMESTRE DE LA INGENIERIA EN TECNOLOGIAS DE LA INFORMACION Y COMUNICACIONES
 
--🤙Amistoso
+-🖥️ INGENIERIA DEL CONOCIMIENTO 
 
--🎬Amante del cine y tv series
+-🎬 CINE Y TV 🤍
 
 | Hora  | Lunes           | Martes          | Miercoles        | Jueves           | Viernes         |
 |:-----:|:---------------:|:---------------:|:----------------:|:----------------:|:---------------:|
-| 2-3pm | ADMON RED Q103  | ADMON RED Q103  | ADMON RED Q103   | ADMON RED LAB I  | ADMON RED LAB I |
-| 3-4pm | ING. CONC. Q103 | ING. CONC. Q103 | ING. CONC. LAB B | ING. CONC. LAB B |       ///       |
-| 4-5pm |       ///       |       ///       |       ///        |       ///        |       ///       |
-| 5-6pm |       ///       |       ///       |       ///        |       ///        |       ///       |
-| 6-7pm | NEGOCIOS Q103   | NEGOCIOS LAB C  | NEGOCIOS Q103    | NEGOCIOS LAB C   |       ///       |
-| 7-8pm | OPERATIVO Q103  | OPERATIVO Q103  | OPERATIVO Q103   | OPERATIVO Q103   |       ///       |
+| 2-3pm | SIS. OPE 2 0308 | SIS. OPE 2 0308  | SIS. OPE 2 0308   | SIS. OPE 2 0308   | SIS. OPE 2 0308  |
+| 3-4pm | ING. CONC. Q104 | ING. CONC. Q104 | ING. CONC. Q104  | ING. CONC. Q104  |       ///       |
+| 4-5pm |DES.APL.MOV 0380 |DES.APL.MOV 0380 |DES.APL.MOV 0380  |DES.APL.MOV 0380  |DES.APL.MOV 0380 |
+| 5-6pm |       ///       |        ///      |       ///        |       ///        |       ///       |
+| 6-7pm |       ///       |       ///       |       ///        |      ///         |       ///       |
+| 7-8pm | AUDITORIAS Q104 | AUDITORIAS Q104 | AUDITORIAS Q104  | AUDITORIAS Q104  |       ///       |
 
 
 ```C#
