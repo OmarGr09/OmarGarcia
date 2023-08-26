@@ -1,5 +1,4 @@
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/5643130.png" width="1032" height="100" alt="Omar Garcia" /></a>
-<br />Image by <a href="https://cooltext.com">Cool Text: Logo and Button Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=4293262276">Create Your Own Logo</a>
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_button.gif" width="88" height="31" alt="Cool Text: Logo and Graphics Generator" /></a>
 
 
 # OmarGarcia
@@ -25,6 +24,6 @@
 
 ```C#
 require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
+markdown = Redcarpet.new("Hello World c:")
 puts markdown.to_html
 ```
